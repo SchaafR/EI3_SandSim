@@ -12,6 +12,7 @@ This part only fucuses on the propreties of the matrix
 #include<stdlib.h>
 #include "window.h"
 #include "process.h"
+#include "matrix.h"
 #include <SDL2/SDL.h>
 
 

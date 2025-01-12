@@ -4,6 +4,7 @@
 #include <time.h>
 #define radius 1 // radius of the brush
 #include "window.h"
+#include "matrix.h"
 #include "process.h"
 
 int main(int argc, char** argv) {
